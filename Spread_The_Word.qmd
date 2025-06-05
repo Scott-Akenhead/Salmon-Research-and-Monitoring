@@ -1,0 +1,316 @@
+---
+title: "Spread The Word"
+subtitle: "Working Groups for Salmon Research and Monitoring"
+author:
+  - name: Scott A. Akenhead
+    email: scott@s4s.com
+    affiliation: Fisheries and Oceans Canada (retired)
+date: today
+format: 
+  pdf: 
+    documentclass: article
+    toc: true
+    number-sections: true
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+bibliography: references.bib
+---
+
+# Publicizing the Salmon Research and Management Working Groups
+
+The [Salmon Research and Monitoring Interest Group](https://www.rd-alliance.org/groups/salmon-research-and-monitoring-ig/activity/) (SR&M IG) within the Research Data Alliance wishes to select and participate in public fora as a way to *accelerate the uptake of interoperable methods and data from research, management, and monitoring, so as to empower the community to further develop the mechanistic understanding of what drives salmon declines, and importantly develop methods to counter the declines.*
+
+This requires building a [community of practice](https://en.wikipedia.org/wiki/Community_of_practice) – *a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly*. This will be an on-line commmunity that shares, and hopefully practices, advances in all aspects of **salmon data mobilization** (details in @diack2024). To maximize impact and engagement, the individual Working Groups initiated by by the SR&M IG – to deliver large-scale but time-limited projects – must attempt connections with thousands of researchers and managers in the hundreds of agencies that are actively collecting and applying datasets for salmon research and monitoring... worldwide.
+
+The problem is: How can an initial, small Working Group expand rapidly into a large and efficient collaboration? Notice the life-span of a WG is typically 18 months. One aspect is that initializing collaboration is a means to answer the question of how to collaborate.
+
+*Building attracts builders*.
+
+So the first steps will be to quickly initialize collaboration and then *learn by doing.* In what follows, **some** of the opportunities for outreach, collaboration, and discovery are reviewed. Learning and describing ***how*** to initiate collaboration, exactly and in detail for selected channels – that's a subsequent project and report.
+
+# Primary Outreach Channels
+
+I think an *efficacious* route forward involves partnering with large and established agencies. We then network with networks of networks that can endorse, credibly, our Working Groups' projects, tools, and results. How is TBD, but consider joining webinars, contributing to newsletters, and using these agencies as fora to announce collaboration opportunities.
+
+## Academic and Research Networks
+
+Direct engagement with marine biology departments, fisheries science programs, and environmental research institutes will form the foundation for ongoing work of the SR&M IG. We need to target universities with active salmon research programs, particularly those in the Pacific Northwest, Alaska, Scandinavia, and the North Atlantic regions - but there are Southern Hemisphere academic programs as well: New Zealand, Chile,.
+
+We can leverage existing academic conferences such as the American Fisheries Society meetings, International Association for Great Lakes Research, and regional salmon symposia to introduce our initiative through presentations, poster sessions, and networking events.
+
+## Government and Management Agencies
+
+It should be possible to establish direct connections with international, national, and regional fisheries management organizations: NOAA Fisheries, Fisheries and Oceans Canada, the Pacific Salmon Commission, ICES, PICES, and European salmon management agencies. Their extensive datasets and their management responsibilities align with our objectives. Similarly, we can attempt coordinating with state and provincial wildlife agencies that monitor salmon populations and habitat conditions... and what's that weird one? oh right, the Pacific States Marine Fisheries Commission (PSMFC).
+
+## Non-profit Organizations and Foundations
+
+Without guessing their eagerness to join, there is literally a world of NPOs that focus on salmon conservation worldwide. The following are large groups with a larger scope than the myriad groups dealing with local issues (the small groups often benefit (grants, contracts) from the larger).
+
+### **Pacific Salmon Foundation**
+
+A Canadian foundation dedicated to protecting and restoring wild Pacific salmon and their habitat. 
+
+### **Wild Salmon Center**
+
+Focuses on the conservation and recovery of wild salmon and steelhead populations. 
+
+### **SkeenaWild**
+
+A regional conservation initiative working to conserve and rebuild wild salmon and steelhead populations. 
+
+### **Bristol Bay Defense Fund**
+
+A coalition that seeks to protect Bristol Bay for the long term. 
+
+### **Watershed Watch Salmon Society**
+
+A science-based charity working to defend and rebuild British Columbia's wild salmon. 
+
+### **Coast Coho Partnership**
+
+A partnership working to accelerate the recovery of Oregon's two coastal coho runs. 
+
+### **North Atlantic Salmon Conservation Organization**
+
+A hemispheric partnership leading the International Year of the Salmon in the North Atlantic. 
+
+### **Atlantic Salmon Federation**
+
+Works to conserve and restore Atlantic salmon in Canada and internationally.
+
+### **The Missing Salmon Alliance**
+
+A network of organizations working to connect and support salmon conservation efforts globally.  
+
+### **Aquaculture Stewardship Council**
+
+An international nonprofit promoting sustainable aquaculture practices through their certification program. 
+
+## A Website for SR&M IG
+
+Modern tools make it easy and cheap (\~\$100/year) to create a basic website to lay out opportunities for, and benefits from, participating. I would point to [Quarto](https://quarto.org/docs/websites/) for this, given simplicity (\@fig-quartowebsite) and salmon biologists' familiarity with this technology. Consider one permanent website for SR&M IG with sub-sections for each ephemeral Working Group. The existence of such a website simplifies community building. If a Working Group maintains its sub-section, that facilitates sharing for that group and between groups in the SR&M IG.
+
+[![Simple and fast website development using Quarto.](images/quarto_website.png){#fig-quartowebsite width="50%"}](https://quarto.org/docs/websites/)
+
+**To be solved:**
+
+1.  How might such a website immediately effect sharing and collaboration? The website must make it easy to get involved.
+
+2.  To what extent does everything happen on that website as opposed to pre-existing tools (Slack, Discord, GitHub, Google Workspace,)? Scattering work across many locations in many tools is self-defeating.
+
+## Social Media
+
+Substantial personal involvement is called for, but Working Groups must develop an active and interactive online presence. This starts with targeted campaigns on social media sites where researchers are already established and communicating (see @fig-social and following sub-sections).
+
+### Campaign Details
+
+We will have to launch coordinated (cross-referencing, reposting) campaigns across multiple sites, but with *flavour* varying by sites' style and content. Probably four sites will suffice reach the tiny subset of people interested in salmon data within the quite enormous community interested in salmon in recreational fishing, recipes, culture, art,. We are (?) excluding salmon management (catch stats and allocations), and less focused on analysis (math, stats methods, models,) compared to field data collection and management. Reprimand sharply if I am wrong. Further guessing: the likelihood of connecting with salmon biologists is not just popularity of one social media platform versus another. Lots of stats for this.
+
+A focused strategy, given exiting content and available time is small, will beat being spread too thin. The goals is all members of this IG and its WGs will create and share compelling content that describes (a) interesting projects that need help (each Working Group), (b) related, emerging research opportunities, and (c) to leverage these, success stories about related collaborations.\
+
+| Statistics site | Detail |
+|-----------------------------------|-------------------------------------|
+| [**Statista**](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) | provides regularly updated data on global social media platforms, including user numbers and rankings. |
+| [**Buffer**](https://buffer.com/resources/social-media-platforms/) | offers articles and data visualizations comparing different social media platforms based on monthly active users. |
+| [**Backlinko**](https://backlinko.com/threads-users) | focuses on specific platforms like Threads, providing key statistics such as MAU and daily active users. |
+| [**DataReportal – Global Digital Insights**](https://datareportal.com/social-media-users) | provides comprehensive data on social media usage worldwide, including stats on different platforms. |
+
+: Some sources to compare popularity of social media platforms.
+
+![Relative popularity of most frequently used social media sites](images/social_media_users.png){#fig-social fig-alt="By Ashersea - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99482445" fig-align="center"}
+
+| Name | Company | Monthly (daily) active users, millions |
+|:--:|:--:|:--:|
+| [Facebook](https://en.wikipedia.org/wiki/Facebook "Facebook") | [[Meta Platforms]{.underline}](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms") | 3,070 (2,110) |
+| [[YouTube]{.underline}](https://en.wikipedia.org/wiki/YouTube "YouTube") | [[Alphabet Inc.]{.underline}](https://en.wikipedia.org/wiki/Alphabet_Inc. "Alphabet Inc.") | 2,504 |
+| [[WhatsApp]{.underline}](https://en.wikipedia.org/wiki/WhatsApp "WhatsApp") | [[Meta Platforms]{.underline}](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms") | 2,000 |
+| [[Instagram]{.underline}](https://en.wikipedia.org/wiki/Instagram "Instagram") | [[Meta Platforms]{.underline}](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms") | 2,000 |
+| [[TikTok]{.underline}](https://en.wikipedia.org/wiki/TikTok "TikTok") | [[ByteDance]{.underline}](https://en.wikipedia.org/wiki/ByteDance "ByteDance") | 1,582 |
+| [[WeChat]{.underline}](https://en.wikipedia.org/wiki/WeChat "WeChat") | [[Tencent]{.underline}](https://en.wikipedia.org/wiki/Tencent "Tencent") | 1,343 |
+| [[Messenger]{.underline}](https://en.wikipedia.org/wiki/Facebook_Messenger "Facebook Messenger") | [[Meta Platforms]{.underline}](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms") | 1,010 |
+| [[Telegram]{.underline}](https://en.wikipedia.org/wiki/Telegram_(software) "Telegram (software)") | [[Telegram]{.underline}](https://en.wikipedia.org/wiki/Telegram_(software) "Telegram (software)") | 1,000 |
+| [[LinkedIn]{.underline}](https://en.wikipedia.org/wiki/LinkedIn "LinkedIn") | [[Microsoft]{.underline}](https://en.wikipedia.org/wiki/Microsoft "Microsoft") | 930 (700) |
+| [[Snapchat]{.underline}](https://en.wikipedia.org/wiki/Snapchat "Snapchat") | [[Snap Inc.]{.underline}](https://en.wikipedia.org/wiki/Snap_Inc. "Snap Inc.") | 850 (453) |
+| [[Douyin]{.underline}](https://en.wikipedia.org/wiki/Douyin "Douyin") | [[ByteDance]{.underline}](https://en.wikipedia.org/wiki/ByteDance "ByteDance") | 755 |
+| [[Kuaishou]{.underline}](https://en.wikipedia.org/wiki/Kuaishou "Kuaishou") | [[Kuaishou]{.underline}](https://en.wikipedia.org/wiki/Kuaishou "Kuaishou") | 700 |
+| [[Weibo]{.underline}](https://en.wikipedia.org/wiki/Sina_Weibo "Sina Weibo") | [[Sina Corporation]{.underline}](https://en.wikipedia.org/wiki/Sina_Corporation "Sina Corporation") | 586 (241) |
+| [[Pinterest]{.underline}](https://en.wikipedia.org/wiki/Pinterest "Pinterest") | [[Pinterest]{.underline}](https://en.wikipedia.org/wiki/Pinterest "Pinterest") | 570 (98, USA) |
+| [[QQ]{.underline}](https://en.wikipedia.org/wiki/Tencent_QQ "Tencent QQ") | [[Tencent]{.underline}](https://en.wikipedia.org/wiki/Tencent "Tencent") | 554 (267) |
+| [[X]{.underline}](https://en.wikipedia.org/wiki/Twitter "Twitter") | [[X Corp]{.underline}](https://en.wikipedia.org/wiki/X_Corp. "X Corp.")[.]{.underline} | 550 |
+| [[Qzone]{.underline}](https://en.wikipedia.org/wiki/Qzone "Qzone") | [[Tencent]{.underline}](https://en.wikipedia.org/wiki/Tencent "Tencent") | 517 |
+| [[Reddit]{.underline}](https://en.wikipedia.org/wiki/Reddit "Reddit") | [[Reddit]{.underline}](https://en.wikipedia.org/wiki/Reddit "Reddit") | 500 (102) |
+| [[Quora]{.underline}](https://en.wikipedia.org/wiki/Quora "Quora") | [[Quora]{.underline}](https://en.wikipedia.org/wiki/Quora "Quora") | 400 |
+| [[Xiaohongshu]{.underline}](https://en.wikipedia.org/wiki/Xiaohongshu "Xiaohongshu") [(Rednote)]{.underline} |  | \>300 |
+| [[JOSH]{.underline}](https://en.wikipedia.org/wiki/Josh_(app) "Josh (app)") | [VerSe Innovation]{.underline} | 300 |
+| [[Teams]{.underline}](https://en.wikipedia.org/wiki/Microsoft_Teams "Microsoft Teams") | [[Microsoft]{.underline}](https://en.wikipedia.org/wiki/Microsoft "Microsoft") | 300 (145) |
+| [[Tieba]{.underline}](https://en.wikipedia.org/wiki/Baidu_Tieba "Baidu Tieba") | [[Baidu]{.underline}](https://en.wikipedia.org/wiki/Baidu "Baidu") | 300 |
+| [[Threads]{.underline}](https://en.wikipedia.org/wiki/Threads_(social_network) "Threads (social network)") [( reqs. Instagram)]{.underline} | [[Meta Platforms]{.underline}](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms") | 300 |
+| [[Viber]{.underline}](https://en.wikipedia.org/wiki/Viber "Viber") | [[Rakuten]{.underline}](https://en.wikipedia.org/wiki/Rakuten "Rakuten") | 260 |
+| [[imo]{.underline}](https://en.wikipedia.org/wiki/Imo.im "Imo.im") | [PageBites]{.underline} | 200 |
+| [[Discord]{.underline}](https://en.wikipedia.org/wiki/Discord "Discord") | [[Discord]{.underline}](https://en.wikipedia.org/wiki/Discord "Discord") | 200 |
+| [[Twitch]{.underline}](https://en.wikipedia.org/wiki/Twitch_(service) "Twitch (service)") | [[Amazon]{.underline}](https://en.wikipedia.org/wiki/Amazon_(company) "Amazon (company)") | 180 |
+| [[Line]{.underline}](https://en.wikipedia.org/wiki/Line_(software) "Line (software)") | [[Naver]{.underline}](https://en.wikipedia.org/wiki/Naver "Naver") | 178 |
+| [[Likee]{.underline}](https://en.wikipedia.org/wiki/Likee "Likee") | [[Bigo Live]{.underline}](https://en.wikipedia.org/wiki/Bigo_Live "Bigo Live") | 150 |
+| [[Picsart]{.underline}](https://en.wikipedia.org/wiki/Picsart "Picsart") | [[Picsart]{.underline}](https://en.wikipedia.org/wiki/Picsart "Picsart") | 150 |
+| [[Vevo]{.underline}](https://en.wikipedia.org/wiki/Vevo "Vevo") | [[Vevo]{.underline}](https://en.wikipedia.org/wiki/Vevo "Vevo") | 150 |
+| [[Tumblr]{.underline}](https://en.wikipedia.org/wiki/Tumblr "Tumblr") | [[Automattic]{.underline}](https://en.wikipedia.org/wiki/Automattic "Automattic") | 135 |
+
+: Social media sites with \> 100 million monthly active users.
+
+What follows is a wheezing geezer's guess about where to start.
+
+### Hashtags
+
+The IG Chairs, hallowed be their names, requested a suite of hashtags. Here is an initial list, balancing breadth vs. relevance:
+
+> #SalmonData, #FisheriesResearch, #OpenScience, #MarineData, #SalmonConservation, #DataSharing, and obviously #ResearchDataAlliance.
+
+Guessing a bit, but I think we can maximize ***discovery*** (my favourite word) if we combine broad IT and research tags: #OpenData, #FAIR,, with *focused* hashtags: #PacificSalmon, #AtlanticSalmon, #SalmonEcology,.
+
+### [Discord](discord.com) 
+
+We are already there: [Salmon Data Mobilization](https://discord.com/channels/1357381504900272229/1357381505508184107). Further, this points to
+
+1.  Important Resources:
+    Google Drive Docs: <https://drive.google.com/drive/folders/1q6l2fVEQR0KRU3Blj2HG1Ev2ebOnIRjX?usp=drive_link>
+
+2.  GitHub repo: <https://github.com/salmon-data-mobiliszation>
+
+### [X formerly Twitter](https://en.wikipedia.org/wiki/Twitter)
+
+I withdrew long ago upon realizing [X encourages fascism and hate speech](https://en.wikipedia.org/wiki/Twitter#Criticism). Plus bots (20% of content), scams, propaganda, and election interference by foreign actors. Nevertheless, approximately 600 M *active* users can discover, follow, and repost: daily research highlights, dataset discoveries, real-time reports from conferences,. Someone else will have to research suitability of this site, count me out.
+
+### LinkedIn
+
+Here the focus is on lengthy *professional* content including researcher spotlights, institutional partnerships, and policy implications. IF we use these sorts of hashtags: #FisheriesManagement, #EnvironmentalData, #ResearchCollaboration, #SustainableFisheries,, THEN we will reach management professionals and policy makers. Given that Salmon Data Mobilization (SDM) requires top-down as well as bottom-up approaches, to the extent LinkedIn reaches top-down decision-makers, this is a means to influence them. Maybe.
+
+### Instagram
+
+Now it gets interesting and fun (\@fig-snorkeler). We have lots of content\
+*just a sec while I adopt the appropriate personality...*\
+to like totes get it on with the Instas, you know what I mean? Like, what if we posted, omigod, like the GOAT of salmon images, that would be like totally, you know? And those data viz thingys? You know, networks and plots? Are plots graphs? Never mind. We could have behind-the-scenes research stories like, I dunno, maybe there are salmon zombies? That would be so *ew!* We have to do that! And like, mad salmon scientists, oh oh omigod, like that's like totally a must! And hashtags and more hashtags: #SalmonScience, #FieldResearch, #DataVisualization, #ConservationBiology,. For like, young biologists, and I dunno, old ones *ew!* and you know like the public, and... whatever.
+
+::: {style="float: left; margin: 5px;"}
+![Presumably a snorkel survey for salmon parr or spawners](images/snorkeler.png){#fig-snorkeler width="2in"}
+:::
+
+### Bluesky
+
+I vote we present ourselves on Bluesky (\>20M *active* users). This site has significant traction among academic researchers seeking alternatives to a "traditional platform" whose name is no longer mentioned in polite society. I have noticed a lot of marine biologists and fisheries scientists on Bluesky (despite them being, in general, lackadaisical), so this is one of the routes to the specialized community whom we wish to discover Working Groups. I think the preceding hashtag strategies apply, but add *academic culture* tags: #FishSci, #MarineBio, #Academic,.
+
+Notice feeds for Science and StatSky. Find me: [\@scottakenhead.bsky.social‬](https://bsky.app/profile/scottakenhead.bsky.social). And please discover why the hashtag #salmon is too broad; here's a for instance.\
+What? You asked for salmon. *sheesh.*
+
+::: {style="float: left; margin: 5px;"}
+![](images/clipboard-3571688961.png){width="2in"}
+:::
+
+### ResearchGate  
+This is, of course, direct academic networking via built-in publication sharing. Database: 160 M pages, 75 k journals, 25 M members. It doesn't spring to mind as *conversational* but public questions and discussions are supported, as are research spotlights and [labs](https://www.researchgate.net/lab/Kim-D-Hyatt-Lab) (teams, collaborators). We can pay to advertise (@fig-researchgate). Anyone like to chime in on how to leverage ResearchGate to build a community of practice, build out a Working Group?
+
+::: {style="float: left; margin: 5px;"}
+![Ad in Research Gate for a seminar on collaborative networks.](images/ad_in_researchGate.png){#fig-researchgate width="2in"}
+:::
+
+### Reddit  
+Reddit is huge and active, as in *too* huge and *too* active. There are specialized forums: r/FisheriesBiology (487 members, inactive) r/Fisheries (270, inactive), r/fisheriesmanagement (281, inactive), – this is not encouraging – as opposed to r/salmon (recipes, sportfishing, art,). So: **yes**, this site facilitates technical discussions with practising managers and researchers, but **no**, I don't see (although you might) 10,000 salmon biologists discovering our Working Groups here. Speaking on behalf of [GlitterinLettuce330](https://www.reddit.com/user/GlitteringLettuce330/), I'm disappointed.
+
+### [WeChat](https://www.wechat.com/)  
+I did not realize how big [WeChat](https://en.wikipedia.org/wiki/WeChat) is. With Weixin (Chinese version) there are \>1.3 billion *active* users. Biggest platform in China, used by Chinese researchers worldwide. Not banned in USA, but banned within Canadian federal government. So we're good to go, just don't mention religion, or genders, or politics, or... hmm...
+
+*I for one welcome the Peoples Republic of China's enlightened leadership and its role in securing world peace.*
+
+Joking/not joking aside, WeChat is a site for such as connecting with Chinese (and Chinese-language) salmon researchers and academic networks. I have not researched this but understand it is popular in countries where salmon research is a big deal: Norway, Canada, Japan, Russia, and the US.
+
+### [Facebook](https://en.wikipedia.org/wiki/Facebook)
+
+Likely a good start, given 3 billion active users. Again, I left because, like Meta corporation [supports fascism and enables hate speech.](https://en.wikipedia.org/wiki/Meta_Platforms#Misinformation_and_hate_speech) This applies to [Facebook](https://en.wikipedia.org/wiki/Facebook "Facebook"), [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram"), [Threads](https://en.wikipedia.org/wiki/Threads_(social_network) "Threads (social network)"), [Messenger](https://en.wikipedia.org/wiki/Facebook_Messenger "Facebook Messenger") and [WhatsApp](https://en.wikipedia.org/wiki/WhatsApp "WhatsApp").
+
+### [Threads](https://en.wikipedia.org/wiki/Threads_(social_network))
+
+not examined
+
+### Generally
+
+Part of our approach would be day-of-the-week content: #DataMonday (featuring interesting datasets), #WisdomWednesday (research tips and best practices), #FridaySpotlight (highlighting member achievements),. I have not looked for *influencers* who are salmon researchers (hard to imagine?). As in connecting to other RDA groups, we should be looking for agencies and people who will promote us in exchange for promoted by us. And there is an almost entirely, but not quite, evil practice of hashtag takeovers to expand awareness, such as when I post my salmon data preparation recipes with the hashtag: #salmonrecipes.
+
+# Messaging
+
+Finding the right messages has been a big part of, and a challenge within, our SDM work for the last \~decade. It is not trivial to craft messages that *resonate* with an intended audience. What follows are some hand-waving (in French: *vague*) ideas re this.
+
+As a footnote that floated, there are only four benefits:\
+**Better. Faster. Cheaper. Safer.**\
+Just something to keep in mind. I would have liked to add **More Fun** but apparently I have a funny idea about what is fun.
+
+## The Value Proposition\*\*
+
+Emphasize how participation will boost research impact via: improved access to datasets (especially large datasets), standardizing those, and collaborating on analyses thereby opportuned. I think very specific benefits can be identified: reduced data collection costs by sharing technolgies; safer *best appropriate practices* discovered via Working Groups; enhanced statistical power for salmon population analyses (shared tools, collaboration on use and evolution thereof); , opportunities for cross-regional comparisons (perspective is everything); and increased visibility for individual researchers via co-authored publications and presentations (*job promotions, OK? and pensions? Do I have your attention?)*.
+
+## Success Stories
+
+This overlaps previous, emerging, and foreseeable papers from the SDM group. Fundamental to describe concrete examples of how collaboration initiatives re salmon data led to breakthroughs, *more fully informed* management decisions, exemplary conservation outcomes,. Testimonials from early adopters, to prove benefits from data-sharing partnerships.
+
+## Technical Benefits
+
+This will address practical concerns by practical people. I can't list many that are ours to share, but we should be showcasing data management tools, data standardization process and protocols, technical support and infrastructure availability and support. Hoping (guessing) this includes technoogy and support via Research Data Alliance *per se*, but I do not know if or how. Part of this would be lessening administrators' work while increasing researchers' productivity. Re *investing in efficiency*: the trick is to lower initial costs for initial early wins.
+
+## Timeline
+
+Worth thinking about phases and projects. Here's a rough rough draft, a dog draft. Specific action items TBD!
+
+### Immediate Action. This summer.
+
+-   email campaigns to key researchers and institutions,
+
+-   establish social media presence(s),
+
+-   approach major conferences for presentation opportunities,
+
+-   create basic content: one-page fact sheets, presentation templates, website content,.
+
+### **Short-term Goals. Obtained in 2025.**
+
+-   Secure speaking opportunities at conferences,
+
+-   establish partnerships with key salmon-oriented organizations,
+
+-   begin publishing regular content on all channels established (social media, fisheries agency newletters),
+
+-   set up proof-of-concept (pilot) collaborations with *early adopters* to demonstrate value available, to produce success stories.
+
+### **Sustained Effort. 2026 -**
+
+-   build member-driven content and related events,
+
+-   establish regular webinar series (you were waiting for *salmon influencer*, I know you were),
+
+-   create mentorship programs pairing experienced data sharers with newcomers. I am thinking *data stewards*, as called for in the SDM paper and as (kudos!) initiated in DFO-PAC-SCI under Brett Johnson, but outside of, or between, government agencies;
+
+-   build self-sustaining community engagement through member contributions and peer-to-peer advocacy. Peer-to-peer recommendations are critical.
+
+### Success Metrics
+
+Is it our business to track and report engagement? Yes. Membership growth, active participants in Working Group activities and projects, datasets posted to shared repositories, results from collaborative research,. Not so sure, but what about: reporting website traffic (assuming we build one), social media engagement (someone knows how to count "views"), conference presentations,. Metrics re increasing awareness and interest, and re active participation. Showing these will be either convincing or, if we are flubbering this, a valuable warning.
+
+What do you do upon noticing that the last post on an interactive website was 6 months ago?\
+Right. *A*sA Graeme might say, *tattie-bye!*
+
+# Conclusion
+
+OK. Deep breath.
+
+Success in publicizing the Working Groups managed by the Salmon Research and Management Interest Group will require a multi-faceted approach: direct outreach to key stakeholders (who: TBD) via engaging on social media and by partnerships with key agencies. If we can define, and focus, on clear value propositions and tangible personal benefits (as well as agency-level benefits), we should be able to build a thriving and self-sustaining community that will adopt and improve best practices for data management thoughout the salmon research and monitoring community.
+
+For me the pay-off will be noticing advances in salmon research and conservation. At the end of the day, this is about salmon, less so that viciously destructive invasive species *H. sapiens*.
+
+**Summary of summary** Looks to me the key to unlock this will be consistent, targeted communications, with messaging that describes various immediate values obtainable, while building long-term relationships with both the persons and the agencies in the salmon community. A lot of this will be uncoordinated individual contributions that spread information generated by a core group in each Working Group.
+
+# Call to Action
+
+We invite all researchers, managers, and institutions involved in salmon data sciences to join us in this initiative. Together, we can create a powerful network that enhances our collective understanding and management of salmon populations worldwide. Please visit our website \<*cough, cough*\> to learn more about how you can be involved, obtain benefits from sharing your datasets, and contribute to the future of salmon research and monitoring.
+
+# References
